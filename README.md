@@ -1,1 +1,1 @@
-# rabina.c
+array operation
